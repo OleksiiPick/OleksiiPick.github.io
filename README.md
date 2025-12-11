@@ -1,4 +1,4 @@
-# OleksiiPick.github.io
+# Конструктор Ледового Бура
 
 <!DOCTYPE html>
 <html lang="ru">
